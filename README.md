@@ -4,6 +4,8 @@
 #####  ATR Sample Data
 https://gist.github.com/zural/2e181ab0cbb3525d121ce4a4c6a28aa8
 
+RunKit: https://runkit.com/zural/stock-indicator-study-atr
+
 ```
 const SampleData = require('SampleData);
 const { Indicator } = require('../../study/index');
@@ -16,7 +18,7 @@ Output
  [ ...
  	TrueRange: 26.75, 
  	SumTrueRange: 125.5999999999998,
-	 Value: 19.44443831563074
+	Value: 19.44443831563074
 ]
 
 ```
@@ -27,6 +29,8 @@ Up trend is indicated as **Direction: 1**
 Downtrend is indicated as **Direction: -1**
 #####  Supertrend Sample Data
 https://gist.github.com/zural/2e181ab0cbb3525d121ce4a4c6a28aa8
+
+RunKit: https://runkit.com/zural/stock-indicator-study-supertrend
 
 ```
 const SampleData = require('SampleData);
