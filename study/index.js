@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var Indicator=function(){function t(t){this.study=t}return t.prototype.calculate=function(t,r){return this.study.doAlgorithm(t,r)},t}();exports.Indicator=Indicator;
